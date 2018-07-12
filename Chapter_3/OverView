@@ -1,0 +1,49 @@
+Chapter 3
+Loops + if Statments
+---------------------
+
+The Chapter Game: The Guessing Game
+-----------------------------------
+-Computer chooses a number between 1 - #?
+-The user tries to guess the number
+-The computer responses by letting them know if they are "too high", "too low", "correct"
+
+The Challenges
+--------------
+#1- Fortune Cookie Game
+The program would randomly display one of 5 fortunes each time it is run
+
+#2- Coin Flip Game
+-The program would flip a coin 100 time
+-Then tell you how many times it got Heads & Tails
+
+#3- Guess Game (modded)
+The user has only a limited number of guesses
+
+#4 - Guessing Game Reversed
+-The user chooses the number
+-The computer has the guess the number
+
+
+#################
+
+NOTES:
+
+import random
+import math
+random()
+x = random.randint(1,5)
+
+
+
+from os import system
+ define our clear function
+def clear():
+
+    # for windows
+    if name == 'nt':
+        _ = system('cls')
+
+    # for mac and linux(here, os.name is 'posix')
+    else:
+        _ = system('clear')
