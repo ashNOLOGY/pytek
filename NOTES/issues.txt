@@ -1,0 +1,20 @@
+########
+ISSUES
+#########
+
+July.17.2018
+-------------
+IF Statement.
+i was creating a progam in Ch3 (python for beginners).
+Its a guessing game, the computer randomly chooses a number, and the user has to guess it.
+The user is limited to 3 guesses
+
+The issue I was running into was, it would not accept the correct guess if it was the last guess, 
+but it would accept it if was any of the other guesses.
+
+The solution:
+-Don't use "elif". 
+-When I changed the "If Statement" to only "Ifs" with no "elif" or "else"
+
+////////////
+
