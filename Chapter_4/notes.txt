@@ -1,0 +1,2 @@
+Chapter 4 is going to be intresting, a lot of string maniupulation, and even a creation of a dictionary.
+sweet.
