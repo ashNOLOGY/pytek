@@ -1,0 +1,142 @@
+PyNotes
+#######
+
+Ch4:
+For Loops / Tuples / Word Jumble Game
+-------------------------------------
+-To Exclude something-
+
+x = "abcd"
+for x in 'abcd':
+if x == 'c':
+ break
+print(x)
+>> a b
+
+This basically says, when you come to 'c', stop.
+
+######
+
+
+-To Specifically Find something-
+
+x = "abcd"
+for x in 'abcd':
+ if x != 'c':
+    continue
+ print(x)
+>> c
+
+This says, if its NOT 'c', continue until you get 'c'.
+
+
+#######
+
+-To Skip something-
+
+x = "abcd"
+for x in 'abcd':
+ if x in ['b', 'c']
+   print("skipping")
+    continue
+ print(x)
+>> a, skipping, skipping, d
+
+This says, go through the elements, and when you find 'b' and 'c', skip them and continue.
+
+######
+
+-Finding the LENGTH of something-
+len()
+
+for example
+len([0,1,2])
+>> 3
+
+#####
+
+-Creating a LIST with a RANGE-
+
+list(range(5))
+>> 0,1,2,3,4
+
+or
+list(range(1-5))
+>>1,2,3,4,5
+
+
+######
+
+-more RANGE manuipulations-
+
+range(start value, end value, step/manipulate)
+
+example
+range(10, 0, -1) <-- print the numbers back wards
+
+range(1, 10, 2) <-- skips 2 numbers after each number.
+>> 1,3,5,7,9
+
+
+#####
+
+-ENUMARATION-
+This can help with indexing, to know where a location of something is.
+
+x = 'abcd'
+for index, x in enumerate ('abcd')
+   print(index, x)
+>> 0a , 1b, 2c, 3d
+
+#####
+
+
+-Searching & going Backwards-
+
+s = 'abcd'
+s = [2]
+>> c
+
+or
+
+s = 'abcd'
+s = [-1]
+>> d
+
+
+#####
+
+-Replacing something-
+
+s = 'abcd'
+s2 = s.replace ('c', 'C')
+print(s2)
+>> abCd
+
+Note: the value in memory will change, because Upper and Lower case letters have different values
+so id(s) & id(s2) will be different
+
+####
+
+-Movements using numbers-
+
+s = ['abcd']
+s = [0:2]
+>> a, b
+
+This says, starts at 0, and move only 2 characters
+
+
+####
+
+-To print the string Backwards-
+
+x = 'abcd'
+x = [::-1]
+>>dcba
+
+The formula is x [start value: end value : step]
+By the leaving the first two empty, it says "give me the whole thing from stat to finish, and the '-1' says, do this starting with the last letter
+
+
+######
