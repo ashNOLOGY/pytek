@@ -1,0 +1,52 @@
+Python Snippits for Dictionary
+------------------------------
+
+/////////////////
+Ch4 - pg.89
+Breaking Down a word Letter by Letter:
+This simple "for loop" allows the user to type in a word, and then it breaks down that word letter by letter, this could be useful when trying to search/compare what is typed to what we have.
+
+word = input("enter word: ")
+
+print("here is each letter in your word: ")
+for letter in word:
+  print(letter)
+
+
+input("Enter to Exit")
+
+/////////////////
+
+
+
+/////////////////
+Ch4 - Notes.
+-ENUMARATION-
+This can help with indexing, to know where a location of something is.
+
+x = 'abcd'
+for index, x in enumerate ('abcd')
+   print(index, x)
+>> 0a , 1b, 2c, 3d
+
+/////////////////
+
+Ch4 - Notes.
+-Searching & going Backwards-
+
+s = 'abcd'
+s = [2]
+>> c
+
+or
+
+s = 'abcd'
+s = [-1]
+>> d
+
+
+///////////////////////
+
+
+
+
