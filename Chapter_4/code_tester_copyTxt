@@ -1,0 +1,34 @@
+'''
+NCC
+CODE TESTER
+
+Project: PyTek
+Code by: ashNOLOGY
+
+'''
+
+
+
+
+#------ The Imports
+import math
+import random
+import os
+
+
+# intro
+print("\n\t\t\t---------------"
+      "\n\t\t\t| CODE_TESTER | "
+      "\n\t\t\t---------------\n")
+
+'''
+TEST CODE GOES HERE
+'''
+
+
+
+
+# outro
+input("\n\t\t\t-----------------"
+      "\n\t\t\t| ENTER to Exit |"
+      "\n\t\t\t-----------------")
