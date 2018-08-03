@@ -18,3 +18,51 @@ The solution:
 
 ////////////
 
+
+Aug.3.2018
+-----------
+The First Challenge in Chapter 4, pg.155
+-Create a program that prints a list of words in random order.
+-It should print ALL the words, but not repeat any.
+
+This was quite the issue for me, it took me a while, about a week or two to figure a way to make this happen.
+it had to be broken down into sections.
+1. creating a list of words
+2. indexing that list
+3. creating an empty list (to be used for checking)
+4. creating a while loop
+5. creating a randomly generated number (with in the range of the word list)
+
+From 1 to 3 everything is pretty straight forward, its after that part that things get a bit complex.
+The logic is:
+>To generate a random number 
+>Check that random number to make sure its not repeated
+>Compare that random number to the indexed list
+>Print out the word that is associated with that number 
+
+My Solution:
+Before the loop I had
+l = len(word_list)  # to have a number for how long the list is
+i = 0  # the incrementer inside the while loop
+picked_nums = []   # the empty list
+
+
+
+
+#--- the while loop
+while (i < l):
+
+    #----- create a random number generator
+    rand_num = random.randint(0,2)
+    #-- Check to see if the number is in picked_nums
+    if rand_num not in picked_nums:
+        # --IF NOT: Add the rand_num to the picked_num list
+        picked_nums.append(rand_num)
+        print("Randomly Picked Numbers are: ", picked_nums)
+        # ---- printing the word associated with choosen number
+        print("The word in that index is: ", word_list[rand_num])
+        print("\n* * * * *\n")
+    else:
+        continue
+    #-- incrementing the while loop
+    i += 1
