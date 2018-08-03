@@ -1,0 +1,30 @@
+
+The Chalenges : ch5 | pg.155
+-----------------------------
+
+#1:
+-Create a program that prints a list of words in random order.
+-It should print ALL the words, but not repeat any.
+pg.96+97 have a random word order print function, but it repeats
+//length of list
+//random
+//index / enumeration
+
+
+#2:
+-Character Creator program for a role playing game.
+-The user is given 30 points from a pool to spend on 4 attributes
+(Strength, healther, Wisdom, Dexterity)
+-The user should also be able to take points from the attributes adn puts them BACK into the pool
+
+#3:
+-Who's Your Daddy?
+-You enter a name of a person and it gives you the name of that person's father
+-Allow user to add/delete pairs to the dictionary
+
+
+#4:
+-Who's Your Daddy? MOD
+-Allow the game to give back the name of the Grandfather
+-Only using one dictionary
+-Include several generations
