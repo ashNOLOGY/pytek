@@ -21,7 +21,7 @@ The solution:
 
 Aug.3.2018
 -----------
-The First Challenge in Chapter 4, pg.155
+The First Challenge in Chapter 5, pg.155
 -Create a program that prints a list of words in random order.
 -It should print ALL the words, but not repeat any.
 
