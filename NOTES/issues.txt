@@ -46,9 +46,6 @@ l = len(word_list)  # to have a number for how long the list is
 i = 0  # the incrementer inside the while loop
 picked_nums = []   # the empty list
 
-
-
-
 #--- the while loop
 while (i < l):
 
@@ -66,3 +63,9 @@ while (i < l):
         continue
     #-- incrementing the while loop
     i += 1
+
+That fixed the issue for me.
+///////
+
+
+
