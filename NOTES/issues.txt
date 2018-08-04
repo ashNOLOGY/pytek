@@ -18,10 +18,40 @@ The solution:
 
 ////////////
 
+Aug..2018
+----------
+Chapter 4 : The Jumble Word game.
+-I was able to create a list of words / and randomly select one of them to be part of the game
+-The issue I was running into was actually "jumbeling" the word.
+-The book was walking us through this whole process of finding the position of each letter, and jumble it that way.
+I was running into an issue with the loop, it either ran once, and ran forever. I was choosing one word to jumble, but then BOOM.
+-Bill mentioned the random.shuffle() method. Its, brilliant.
+The only catch is, it only works with lists, so all I had to do was add the random choosen word into a list, then shuffle the list
 
-Aug.3.2018
+# Creating the sequence of the words
+words = ("python", "easy", "ash")
+
+# Pick a word at random from "words"
+random_word = random.choice(words)
+
+# Creat a list to put that word in
+# Shuffle that list
+l= list(random_word)
+random.shuffle(l)
+
+# Display the word + the Shuffled word
+print("The correct word is: [ ", random_word, " ]")
+print("The Jumble word is: ", l)
+
+It worked GLORIOUSLY.
+Now I just need to add the User's part, of guessing the word, and this would be done.
+
+
+///////////
+
+Aug.3.2018  (continue)
 -----------
-The First Challenge in Chapter 5, pg.155
+The First Challenge in Chapter 5
 -Create a program that prints a list of words in random order.
 -It should print ALL the words, but not repeat any.
 
@@ -66,6 +96,7 @@ while (i < l):
 
 That fixed the issue for me.
 ///////
+
 
 
 
