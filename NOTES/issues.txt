@@ -25,6 +25,8 @@ Chapter 4 : The Jumble Word game.
 -The issue I was running into was actually "jumbeling" the word.
 -The book was walking us through this whole process of finding the position of each letter, and jumble it that way.
 I was running into an issue with the loop, it either ran once, and ran forever. I was choosing one word to jumble, but then BOOM.
+
+The Solution:
 -Bill mentioned the random.shuffle() method. Its, brilliant.
 The only catch is, it only works with lists, so all I had to do was add the random choosen word into a list, then shuffle the list
 
