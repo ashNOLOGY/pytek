@@ -100,5 +100,40 @@ That fixed the issue for me.
 ///////
 
 
+Aug.15.2018
+DICTIONARIES
+--------------
+In Chapter 5 we had to create a dictionary and manipulate it a bit.
+One of the issues I was having, is that you have to type in the EXACT word, other wise, it would just create a new one
+I need to figure out an "input check" some how.
+One way I'm trying to do that, is provide the user with a simple choices,
+ for example: 
+ 1- strength // 2- healther // 3- wisdom
+ That way, they simply need to type in 1, 2, or 3
+That will of course require an IF/ELSE statement to match the choice
+So I've had to see if I can work with each KEY/VALUE by its self.
+
+I saw that if you simply say:
+ dd.values()
+That would print out ALL of the values, which is helpful to show them all, but when I need just ONE value i did
+ dd = {"s": 1, "h": 2}
+ inp = "s" 
+ dd[inp]
+That would print out just "1".
+
+
+
+NOW.
+In one of my earlier non-fool proof verstions.
+I was able to have the user choose which item they wanted to change, and how much to change it by doing it this way:
+ userInput1 = input("which to change? ") <-- here they would for example type "s"
+ userInput2 = int(input("How much to change it with")) <-- here they would type "10"
+Making the change
+ dd[userInput1] = userInput2
+And that worked.
+What I need to adjust is the "userInput1", To make it a simple "1,2,3" choice
+
+//////
+
 
 
