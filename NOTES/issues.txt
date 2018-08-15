@@ -134,6 +134,40 @@ And that worked.
 What I need to adjust is the "userInput1", To make it a simple "1,2,3" choice
 
 //////
+Aug.15.2018 (continue)
+Dictionary
+-----------
+I was able to update the program to have 2 selection options to help make this a bit easier.
+The updated file is:
+Ch5_Code-Tester_v2
+
+The 1st Selection is:
+1~ Add
+2~ Subtract
 
 
+The 2nd Selection:
+s- Strength
+h- Health
+w- Wisdom
+
+This solution has actually worked, its still not "fool-proof" yet, but it has simplified the options for the user, and it works. 
+The "Total Points" get updated automatically based on the choices.
+What will make it even better is the user of function, which will be coming in future lessons.
+
+Another thimg that would help, is figuring out how to "clear the screen" once it goes through the loop.
+So far what I have found via search, it seems to be for IDE, but has not worked these programs.
+
+To Clear the Screen [ this has not worked for me as of yet ]
+Import os
+#-- for Windows
+clear = lambda: os.system('cls')
+clear()
+
+#- Linus systems
+clear = lambda: os.system('clear') 
+clear()
+
+
+////////////////
 
