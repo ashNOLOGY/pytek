@@ -1,0 +1,17 @@
+Challenge 1
+------------
+Improve the ask_num program to call a function
+-make the default "step" value to be "1"
+
+
+
+Challenge 2
+-----------
+Improve the "guess my number" programe
+-incorporate the ask_num()
+
+
+
+Challenge 3
+-----------
+Create a "main()" function to run the whole program from.
