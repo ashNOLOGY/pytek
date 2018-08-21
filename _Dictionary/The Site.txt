@@ -1,0 +1,38 @@
+
+Mission Statement
+
+The purpose of this site is to help digitize our beloved Nubian Culture, to be able to share it with the world, and hopefully help prevent it being erased from our existense.
+
+In the 60s Egypt built the High Dam, which ended up flooding a large portion of the Nubian lands, what I refer to as The African Atlantis. Now there are TWO more dams that may get built, which will end up flooding what is barely left of the Nubian lands. Displacing the people there once again to foriegn lands.
+
+We live in a visual society, and I do believe that I in some way can help people SEE, and some how EXPERIENCE my beloved culture, then the people of Earth will join me in helping to peacefully prevent this beautiful culture from being lost, possibly forever.
+
+//////////
+
+
+
+Participation
+
+Everyone can participate, your envolvement is crusial, and its very simple to do.
+All you have to do is email us at AlNubaProject@gmail.com with something Nuba related.
+
+For example:
+
+AUDIO
+Do you live near the Nile? Great, use your phone to record the sound of the nile for a few minutes and email it to us.
+
+IMAGES
+Are you an aspiring photographer? Sweet, take some images of the landscape and email it to us.
+
+LITRATURE
+Are you literary enthusist? fantastic, if you have any Nubian writings (stories, poetry, ect) send us a PDF.
+
+
+TECHNOLOGIEST
+If your a technologist, there is something for you as well, we are trying to digitze a culture after all.
+Currently I'm working with a group of amazing gentlemen who are donating their time to help me digitize "The Nubian Dictionary". They are using C++ for this program, and are making beautiful progress. But of course you can only search words in English, and it displays the words in English.
+I would love it if someone can use that to help create an Arabic version, and who knows what other languges it can be translated to.
+
+You get the idea.
+If your not sure if something you have would work or not, feel free to ask us.
+AlNubaProject@gmail.com
