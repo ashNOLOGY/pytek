@@ -1,0 +1,3 @@
+cat: tribe1CAT : tribe2,cat
+dog: tribe1,DOG : tribe2/DOG
+mouse: tribe1/mouse : tribe2mouse

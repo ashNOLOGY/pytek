@@ -1,0 +1,30 @@
+'''
+How to open/read a file 
+
+'''
+
+# imports
+#from sys import argv
+
+
+#UI: Asking for the file name
+fileNAME = raw_input("Type the file name: ")
+readMe = open(fileNAME+".txt", "r")
+print ("\n\n")
+print readMe.read()
+
+answer = raw_input("Hit Enter to Exit.")
+readMe.close()
+
+
+
+'''
+/////// COMMENTS AREA
+
+# A SIMPLE OPEN
+readMe = open("wa-NOTES.txt", "r")
+print readMe.read()
+
+
+
+'''
