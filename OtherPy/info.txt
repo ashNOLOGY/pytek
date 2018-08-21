@@ -1,0 +1,2 @@
+These will be other Python programs that need to be polished and then used in the other repository to display my ability to program in python.
+This polished repository will be used for blog tutorials and potential future companies.
