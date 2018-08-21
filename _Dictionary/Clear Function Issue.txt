@@ -1,0 +1,12 @@
+
+-RC This PC / my computer
+-Advanced options / tab
+-Envrioment Varialbes
+-SYSTEM VARIABLEs (bottom window)
+-Path > edit > add directory (c:\windows\system32; )
+ok
+reboot machine
+
+
+
+c:\program files (x86)\ibm\trace faility
