@@ -1,0 +1,535 @@
+--A
+a(one)|ai-we|a-we	  	
+abback|agab|abag		
+abash|sow|sumige		
+abashes|sawi|sumigeein
+abashed|sowsou|sumige'on
+abat, remorie|inge'|ennoas
+abnegate cancel|wailais|wailais
+able can/was|eski/eskou|eskin/eskon
+aborts / abborting|bokki/abokki|fokkin/afokkin
+about|kiri|nana
+above, on|dogoag|doro
+abroad, out|boadir, botge|shaddo
+absorb, suk|ge'ook|ge'ook
+absorbs|ge'ooki|ge'ookin
+absorbed is/was|geooktuki / ge'ook tuk sou|ge'ooktukinge' / ook tuk on
+abundant|digiry|dia
+abuse,instult|did|emerge
+abuses|didi|emerge'in
+abused|didsou|emerge'on
+acacia|shaba,ge'oulle|ge'oulle
+acacia flower|barum|baram
+acacia fruit|ge'ortu|ge'ourte
+accidentally|sou'da|sou'da
+aceromated|fairsou,fottou|fotton
+acromatic|fairur,fottos|fottad
+addle(egg)|shougmbou|shougm a feen
+adhere to| ge'irb bou| ge'iirb a feen
+adjoin|kollgir|kollikir
+adorn the bride| N/A | fokkir
+adult|tonorti|kourked
+advance|agiddo|o'rug ung
+advanced|agiddsou|o'rug-ung
+adze|newid|alud
+afraid|surk bou, sundbou|ge'aga feen
+agaricus|hanon -n|kug'in
+again|weedle|weed a goan
+age|ougour|oug
+one age|bouttout|boutti
+agony|addur|addikreed
+alike|ulgi|ulgin
+all|mulle|mulle
+allain,arrive|door|do'ow
+allained|doorsou|do'ow on
+alright|sere|mussilin
+alone,deserted|agooda|a gooda
+al opecia|gouba|toagne'a, gouba
+also|enkega, ikbou|adingra
+always|kitte'|wiyun, seddin
+amazee'|udwi|undwin
+among|beri|fukki
+amputated|moutbout|mouttool
+anatch|elew oase|allawoase
+and|oan|oan
+angry / to make / will be|arribou, surkbou / arrigir, surkid / bi arri, be surki|simur kafeen / simuskir / fa simurkin
+ankle|ossi bood|oy - insoukki
+anoint|dessdin,der|noyir
+another|itge'il|itge'i
+ant|goar|gou'wa
+antimony|nidme', mine'|gidum
+antin pencil|tibintible|gidum oase
+antimony|nudme'-n|gidum-in
+pot|dadi|dadi
+anus|sorod, osod|ou'sour
+any|say|sir, hir
+ape|abalay|abalgne
+appear / appears / appeared|wan / wani / wansou| wagne / wegne'in/ wegne'on
+appearance|wanur|wagneed
+approach|agid,aw'wut|moal-ung
+arm|kew|kew
+forearm|keffa|keffa
+armlet|lekeek|girdiyya
+armpit|abirtgo|awir in tuwa
+army|kel|kel
+around|lowaya|gritta
+arrange, staw|ge'ob|ge'ob
+arrangement|ge'obur|ge'obeed
+arrest|morrogir,kumituk|do'om
+arrogant|newerti dool|kobe'
+ascend|kooge|kair
+ash|aborti|ou'bourti
+wheat ash|sigid|ased
+ask|issig|issig
+asthma|semma|simma
+at|nay-nur|log-dog
+attain (majority)| N/A | utta feen
+at(you)| teddo | tuddo
+aunt|ba-n-essi / indi kegid|ungne / un ain bess
+avert|wailais gir|wailaiskir
+awake|bitge|fik
+away|wurri|weeirddo
+awe, fear|surki,sundi|ge'akki
+awl|issan|issan
+axe|gumbo|gama
+
+--B
+baby (child)|uffi, bitan| ussur, bitan
+back|ger''|ger
+bad|gurri|gurri
+baize|eri|eri
+bald (head)|toage|toagned'a
+ban|doubba|doubba
+bans|doubbi|doubin
+bainsh|tou'rr|tou'rr
+banished|tou'rrsou|tou'rron
+bank / bank barrium|bas,aab / tognud|abol / tognud
+bare (face / foot)| kogne sow, koisow / ossi sood|koganesama / oy sood
+barge (ship)| gey asa|gey asa
+bark|wok,mok|wok
+barly|serin|sering
+barren|meer|meer
+bart|eair|wiskir
+bashful|sowur|sumige'ori
+basin|ba|fa
+bathe|bow|fiss
+beach|aab togoag|abol in tuuwo
+bead|artge'i|ge'itti
+bear / bears|sok / soki|sok / sokin
+beard|same|same
+beat|ge'om|aushir
+beatle|kookinne|foode
+beautiful|tonge'il|ushri
+beautify|tonge'ilgir|ushikir
+became|noasou|ngoason
+become|un|ung
+bed|ungre|ungre
+before|ogollo|orrugiddo
+beg|bed,bend|fed
+beget|tong, messil|messil
+beggar|bedday,bendutti|feddutti
+begin|ugur|ougir
+beguile|doashkir|doashkir
+behind|ger ni|ger rog-lof
+blech|aish|aish,gaish
+belly|too|too
+belongs (to)|dig|na
+belt|amage'ur|mergur
+bend|oub,sourogne|golobe- oub
+bendication|turure|turwe
+bent|beri,arri|filli
+benumb / benumbed|seewi / seewsou|seewin / seewonloater
+turkeenberth|mishra|mishra
+beside|afta|sha, fukki
+between|afta|sha, fukki
+better|g'en|g'en
+big|dool|duwwoo
+bird|kawitri|kawutri
+birth|ouskur|ounneed
+bit (piece)/ bit (to)|firsa / birt|fourse / birt
+bite|utge|utge
+bitter|nuddi|nurri
+black|ouroumme|ouroum
+blacksmith|tabid|tabid
+bladder|belti|doukkir
+blame|goagne,gog|goagne
+blanket|migid|koubid
+blaze|tou'rk|tou'rk
+bleat|maing|maing
+bleet|wud|kud
+bless / God may bless|digreekirre|dell / noar delikir-osaun
+blessed|digreekirsou|dellon
+blind|dogor, dongor|doungi
+blink|nebed|nebed
+blinking|a nebedi|anebedin
+bloater|turkeen|turkeegne
+blood|gew|dees
+blow (nose)|fook,soot|sounne
+bluff|tukker|tukker
+blunt|di bou|nab,dia feen
+boat (ship)|koub|sigir
+bode (to show) / bode well|amittir / ossara|amuntikir / ugreskuttar
+boil / to make boil /boil over|wass / a wassi / gou'fr|wull / a wullin /gou'fr
+boiling|a wassi|a wullin
+bone|keed|gisir
+book|show|show
+bore|obir|ouffir
+born / was born|ounnar / ouskituksou|ounnad / ounntukon
+bonght|ge'ansou|ge'anon
+bow / to bow|ungo,ongi /oab bou|oob/ ouba feen
+boy|toad|toad
+braid / braid hair|awitge / mouttoug|nit / moge,sheer
+brain|irig|oune
+branch|gulli, awir|gullo
+brand|kineed|kurgne'eed
+brave|ogge'i|ogge'i
+bravery|ogge'iekki|ogge'ikki
+bray|hoang|hoang
+breach|kouss|bek
+bread / fresh/ leaven / unfresh / raw|kul / kulfitti / kulniddi / nerissi / morti|kuba / kabid / shuddi / nerissi / moutti
+break / break wind|toag, toub / touss, oor|korge'ir / touss
+breakfast|uginge'okked|uginge'okke-ddi
+breast|erti|dougoussi
+breathes|toudoki|saiwan
+breathing (is)|atoudouki|a saiwin
+breed (cattle / child)|se'ay / doy, doagne|se'ey / doagne
+bride|erkene koal|nogodo
+bring|utta|ettar,ekkir
+brittle|norush|narush
+brook,stream|multi|murti
+broom|kulledi|kulledi,kossir
+brother|bess|enga
+brought|utlasou|ettaron,ekkiron
+bubble (foam)|goumbod|goumbid
+bud|goussi|goussi
+build|gow, gonge|gonge
+building|gowir,gonge'ir|gonge'ur
+bull|gor-ondi|gor-ondi
+bun,hip|boon|ousour-in
+bunsh (of date/ of grape)|airte / shorob| airte / shorob
+bundle|gutti/warti|warti
+burial|kougne'ur|kougne'eed
+burn|ge'ougir|ge'ougir
+burns|ge'ougiri|ge'ougain
+burned|ge'ougirsou|ge'ougiron
+burst|bukkoas|fukkoas
+bury|kougne'ir|kougne'ir
+butcher|goge'i|goge'i
+butt|goutt.moog|goutt
+butter|deskur|frou
+buy|ge'an|ge'an
+///////////////////////////////////////////
+
+--C
+calf|gor,wal|gor
+call|ow|tatge
+calling|a owi|a tatge'in
+came|tassou|taron
+camel|come|come
+canister||age'ol
+care (take)|way|waying
+carry|inge kaugeour|ebb ijur
+carriers (of)| ougre,obert|ougre
+castor oil|abirre|abourre
+cat|sab|kadees
+catch|doum|dou'm
+cave|gaif|gaif
+ceiling|noki|dumbi
+censer|kurweddi|gou'fad
+center|selle|gusko
+cereal (grain / boiled)|eew / gari|eew / urge
+chameleon|noage, nogondesse|dome
+chap||uyeg
+charge||umd
+chatter||forri
+check|hed|hed,geel
+cheek|gee'akom|gecakom
+chest|og|og
+chew|ge'ok|gee'ok
+childhood|uffi nete|usurki
+chill|kerkair|kerkair
+cherp|shigshig|ge'igge'i
+choose (select)|bur|fur
+chose|bursou|furon
+chosen (is)|burtuki-sou|furtukin
+cheern|mokk,ge'ug|kourwie
+churns|mokie, ge'ugi|kourwin
+churned|mokbou, ge'ug bou|kourwa feen
+circle|awilli|gritti
+cisor|kisoreen|kisoreen
+clang|cling|cling
+clap (hands)| alli-gi-geom|alli-gi aushir
+cleft|tour|wagne
+climb|durr|kurtugne,dur
+clip|cosor|kek
+clitoris|fasa|koumeete
+close (shut)|kob|kof
+closed|kob bou|kof a feen
+clothes|kade|kitti
+clover||kitteh
+cloy|bair|koas
+coal|ouloud|girgeed
+coarse|burge|furge
+cob|nood|nood
+cock|durbudondi,koglool|dirbudondi
+cold|od / orkel|orom / orki
+collapse|geeshbou|nawi
+collect (one by one / with both hands)|dett / kaw|dett / kaw
+colocynth|oor|tut-oor
+comb|fais / faisir| bais / baisir
+combing (is) | a faisi|a baisin
+come (come in)|ta / toa|kir, tar / toar
+coming|tul bou| fala feen
+common (shared)|koaldima|koama
+condiment|ge'ukood|ittir
+confused||casha feen
+console|tubbur.beddue|tuffur,feddur
+core|gol|gol
+corner|keen|horongi
+costs|kotti,kobi|koffin, kella
+cotton|bennawutti|koshma,g
+count|eer|oamir
+country|eshuy|irki
+cover (the cover / to cover with dust)|tagir / tagir-eddi / toaw|tigir / tigir-eddi / shish'w
+covers|tagri|rigain
+cow|tee|tee
+coward|migil|ge'agur
+crack|guked / guk|fukkir / guk
+cracked / is cracked|guksou / guknou|gukon / guka feen
+craddle|waid|waid
+crawl|goam|goam
+cream|nebed|ishingi
+creap|sek|sek
+cressent|oon|oon
+crisp|dousho|dousha
+crookery|kisib,sibale|fala
+crocodile|elom|ouloum
+crook (back)|korm,horogne'a|kouraugnee
+crow|koag|koag
+crush|boos, gar|food
+cry|weeg|weeg
+crying (is)|weegur, a weegi|weegeed / a weegin
+cud|armikud,emgi kud|ugmidta kud
+cuddle|oggar|kundagar
+cull|nod|dik
+cultivate|ewir|ewir
+cultivation|ewitri|ewitri
+cup (blood)|illawe,gou'aw|gou'aw
+curd|kreet,masad|kreet
+cure|g'engir|wey'yikir
+cured|g'engirsou|wey'yikiron
+current||terewe
+curse|toos|toos
+curtain|koogera|kalid
+cushion (pillow)|koogera|kalid
+cut (hair / with force)|mer, seergi cosor, moutt,moogol|mer, seerka kerb, moutt
+cymbogon|hayen humburte|nutge'in umburte
+
+--D
+dale|ge'air|furki
+damn|dib|doubb
+damp|ge'awir|ge'awa
+damsel|feta,beyye' koal|fite
+dance (to make dance)|banbat / banur, batur / bangir.bati|arug / arugeed / arugeed
+dark|girdoab,gougsh|dagash
+date (compressed / fruit / sour)|betti / koure / kotge'i koal / gulloa|fenti / koure,gneurwid / aukkarige / gulloa,diffe
+daughter|gullo,bourou|uss
+dawn (sun rise)|masil belti|mashun fulti
+day (today / yesterday / before yesterday)|ougrais / alongo, inowi/ weel/ kamis|ougrais / eli / weel/ kamis / kamisage'oro
+deaf|terig|naig
+dead|dibou / deegirsou|dia feen / deekiron
+death|diyur|diya,diyur
+dear|toad|toad
+decant|g'eew|g'eew
+deceit|doaskir|doaskir
+decorate|alle,say|say,shee
+decrease|meer|mur'o
+deep|dolli|dolla
+dear|gail|kitge'ud
+deflower|aingir|idain a kir
+demolish|will|will
+den, hole|orbor|ouffi
+deny|goob|goob
+denial|goobur|goobeed
+depart|nog|nog
+departed|nogsou|nogon
+departure|nogur|nogeed
+descend|shogour|souk
+desert|naye|nutge'i
+deserted|agoodbo|agooda feen
+destory|borkir|troabkir
+deviate|shoat|shoort
+diarrhea (to have)|seege'ur / a seege'i|seetgead / a seetge'in
+did|awsou|awon
+died|disou|diyon
+die (will die)|bi di|fa deen
+difficult|gasi|gasi
+dig|goal,but|find,but,wund
+dirty|seek|ireed
+dissappear|bok|naf
+disappearance|bokur|nafeed
+disgust|seek|seed
+dissolve|irg|irg
+dispute|arro,hurb|hurb
+dive|ge'ag|ge'ug
+diving (place)|ge'uge|ge'uge
+divide|bug|fug
+division|bugur|fugeed
+divorce|bage|fage,bay
+do|aw|aw
+does|awi|awin
+dog|well|mou'g
+donkey|hanou|kuge
+doll|age-nbourou|age'n uss
+dough|kuliss, isse|isse
+dove|kroo,doge|doge
+down (under)|togoag|tuwwo
+dowry|a'ba|a'ba
+doze (drowsy)|nolge|noll
+drag|toll|toll
+drank|nisou|niyon
+dose|goumbe, goumme|goumbe
+drawer||sak eddi
+dregs|koal|koala
+dream|ootti|nisur
+drink|ni|ni
+drinking|niyur|niyur
+drive (away)|hag / tou'rr|waig / tou'rr
+driver|hagur|waigi
+drop|digir,diff / nuk| nuddikir, tif / nurk
+dropping (is)|anukki|a nurkin
+drown (sink / to drown)|kidd / kiddgir|kidd / koddir
+drowned|kidsou|kiddon
+drowning|kiddur|kidde, kiddur
+drowns|kiddi|kiddin
+drunken|goatge bou|koatge afeen
+dry|sow / souri|sama / summir
+duck|dalay|kalay
+dumb|momod|mou'mour
+dung (camel / cattle/ sheep) |komkore / ossi / kurkum|konkale  / ossi / kille
+dust(soft / color)|esked / boude / eskedi|iskeed / boude / iskeedi
+dwarf|ortona|koodoss
+dying|a di|a deen
+dysentry|tou-n-asal|tou-n-asal
+dyspepsia|too-n-kekur|too-n-keke
+
+--E
+ear (of wheat)|ouloug / gungari|oukki / gungari
+early|warrur|
+earth|gourr|gourr
+east|multi|mutto
+eastern|multoneri|mutto oki
+eat (would)|jul / bi kulsou|kub / fa kubon
+eatable|kultuki|kuntukin
+eats|kuli|kubin
+eaten (has / is / will/ was)|kulessou / akuli / bi kuli / a kulsou| kubedon / a kubin / fa kubin / a kubon
+eddy (whirpool)| walwale| walwale
+edge|kotge'i|meriti,koge'i
+educate|kourkir|koullikir
+education|kourur|koulead
+effeminate|aintge'eela, bourou kouss|a aingecla, koussa
+egg|gusgutti|koumbou
+eight|idwo|idwo
+eighteen|dimindi|dime-r-dwo
+eighteenth|demindi idiwitti| dime-r-idwitti
+eighth|idwirri|idwitti
+elevate|kougegir|kairkir
+eleven|demin wairi|dime waira
+emaciate|silli|sillin
+emaciated|sill bou|silla feen
+embezzle|kurgrosi|kugrosi
+embrace|gar|gar
+emerg|beloasou|fuloason
+empty|sood|sood
+enclouse|kar|kad
+end|katge'ikail|kotge'in kail
+enigma|olti|ourtinan
+enlarge|doolkid|duwwikir
+enough|digri,meshshe|diy'ya
+entertainment|widda,arrid|widda
+envious|messi kutti|magne gutti
+equal|we'ter|kikageen
+epiglottis erect|gelgne|galagne bit
+eternal|way toan|oundain toon
+evening (night)|ougou|awa
+evil|oos|oos
+ewe|eg'eg|eg'ef
+except|maiki|mainken
+excess|mag|mag
+excite (to excite)|irri, geel / irrigir, geelgir|feet / feetkir
+excuse|g'end|miss
+exhaust||kusur
+exist|du|darin
+existed|dasou|daron
+extend|nosogir|nusikir
+extended (the nuk)|nek|nek
+extract|sou'ow|sou'ow
+eye|missi|magne
+
+--F
+fable|komma|koumma
+face (to face)|koi,kogne / abdgir|kogne / teerin
+faces (meet)|abidi|teerin
+faced|abidsou|teeron
+fade|olm|ulm
+faded|olm bou|ulma feen
+fainting|gumre'bou|gumra feen
+fall (to fall)|digi / digirir|nudin / nudikir
+falter|a gug|tumtam
+far|witti,gobri|werri
+farewell||g'end
+farm|be-n-gourr|fa-n-gourr
+farmer|torbur|torbur
+farmman|gourbutti|gourbutti
+fast|derti|derti
+fasten|derti-gi,kogi|misse-ga kagin
+fat|kombo|kombo
+father (father-in-law)|bab / urrou|fab / fabir
+fatigue|mariskidi|kignerki
+fear (the)| durkur,sundur|debgki
+fearing|surki,sundi|ge'agin
+feast|kore|kore
+feather|dilti,shingirti|shingirti
+fecundate|air|kairkir,goontakir
+feeble (unable)|ge'agud|ge'gud. messkan
+feed|kulkid|kubkir
+feet|ossitge'i|oy'i,oyri
+fell|digsou|nudon
+female|kurre|furre
+fenugreek|kurm|kurm
+femanite|kose|nerri kushad
+ferment (dough)||fe'aag
+fetch|tebe|tebbuy
+fetter|o're|o're moar
+fever|taile|taile
+few|kinne, maris|kedi, muris
+fifteen|demin dige|deme dige
+fifth|digetti|dige'itti
+fifty|femin nidige|dime'ni dige
+fill ( a ditch with earth)|ayegir,ugnegir|middikir
+find|el|el
+finds|eli|elin
+fine|nere'moroad|noroad
+fire (firewood)|eeg / eendi|eeg / dette
+first (firstborn / first fruit)|kug / ayer|kug / ayer
+firm (together)|tor|tor
+fish (bond / sheat)| kare / furrutge'i / koor | ungissi / firri / koor
+five|dige|dige
+flash|filit|filit
+flashing|afilitti|afulattin
+flatten (to make flat)|futge bou / fettelgir|futgo'a feen / fushikir
+flay|bottir|fottir
+flayed (has flayed)|bottir / bottirson|fottir / fottiron
+float (to make float)|g'ey / g'eg gir|g'ey / g'ey kir
+floated|g'egsou|g'eyon
+floater|g'eyya|g'eyya
+floating|g'ey bou|g'eya feen
+flock|redda|tow'wi
+flood|demeera,eddisool|tossi demeera gouddo
+flour|noorti|noorti
+flow (run with the current)|wed|terew
+flowing|wed bou|tere-w afeen
+fly|koulti / sib,fir|koutti / way,fir
+
+*** F : Pg 50 ****
+
