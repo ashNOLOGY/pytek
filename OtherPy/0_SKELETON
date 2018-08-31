@@ -1,0 +1,62 @@
+'''
+NAME OF PROGRAM
+-----------------
+Project: [bini-tek]\\
+Code by: Ash Dawod
+2018
+
+
+BRIEF DESCRIPTION OF THE PROGRAM
+-------------------------------
+
+'''
+
+#-- The Imports
+import os
+import math
+import random
+
+
+
+
+'''
+/////////////////////
+Defining the fuction
+/////////////////////
+'''
+
+
+
+
+'''
+////////////////////////////
+END of Defining the fuction
+////////////////////////////
+'''
+
+
+
+
+
+
+#Dispaly the Name of the program
+print("\nNAME OF PROGRAM]"
+      "\n  [bini-tek]\\\\"
+      "\n------------------\n")
+
+
+
+#Setting up the WHILE loop to do 2 main things:
+#1: To call the FUNCTION() !!!!!!!!!!
+#2: To ask if the user wants do it again
+while_again = 'y' # <-- the answer to the loop
+while (while_again.lower() == 'y'):
+    FUNCTION() <--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    #Ask if the user wants to do it again
+    while_again = input("\nWould you like roll again? Y/N: ")
+
+#If the answer is not 'y'
+#Thank the user & Exit
+print("\n\n\n- - - - - - - - - - - - "
+      "\nThank You / End of Program")
+exit()
